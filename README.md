@@ -26,6 +26,15 @@
   
   </div>
   
+  ## Now Playing
+
+
+[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/g7dqwa51aqvb37ih1ljz2ybqb)
+
+----
+<br>
+
+  
   ## Contate-me nesses locais!
                                                       
    <a href="https://www.instagram.com/eduardoo.fj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
