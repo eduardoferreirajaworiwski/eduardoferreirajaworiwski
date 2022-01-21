@@ -26,10 +26,10 @@
   
   </div>
   
-  ## Now Playing
+  ## Escutando agora!
 
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/g7dqwa51aqvb37ih1ljz2ybqb)
+[<img src="https://spotify-oque-estou-escutando.vercel.app/" alt ="Eduardo spotify playing" width = "350"/>]()
 
 ----
 <br>
