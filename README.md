@@ -1,7 +1,8 @@
 ## Olá,eu sou o Eduardo Ferreira Jaworiwski
 
 - 🖥️ Estou atualmente apenas estudando programação
-- 💻 Atualmente aprendendo Java
+- 💻 Conhecimento intermediário em Java
+- 💻 Conhecimento básico de HMTL,CSS E JS
 - 🏫 Estudando na Unisul - Tubarão
 <div align="center">
   <a href="https://github.com/eduardoferreirajaworiwski">
