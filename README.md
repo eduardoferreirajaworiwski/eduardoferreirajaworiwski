@@ -20,7 +20,7 @@
   
   ## Sistemas operacionais utilizados!
 
-   <a href="https://getfedora.org/pt_BR/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" target="_blank"></a>
+   <a href="https://getfedora.org/pt_BR/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" ></a>
    <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   
    </div>
@@ -47,6 +47,4 @@
       <a href="mailto:eduardoferreira.ti@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
    
   </div>
- 
-  
  
