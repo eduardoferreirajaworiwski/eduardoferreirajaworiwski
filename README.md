@@ -1,4 +1,4 @@
-## Olá,eu sou o Eduardo Ferreira Jaworiwski
+# Olá,eu sou o Eduardo Ferreira Jaworiwski
 
 - 🖥️ Estou atualmente apenas estudando programação
 - 💻 Conhecimento intermediário em Java
@@ -34,7 +34,7 @@
   ## Escutando agora!
 
 
- [![Spotify](https://spotify-oque-estou-escutando.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/eduardoo.fj)
+ [![Spotify](https://spotify-oque-estou-escutando.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/g7dqwa51aqvb37ih1ljz2ybqb)
 
 ----
 <br>
