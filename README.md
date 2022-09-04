@@ -1,36 +1,93 @@
-# Olá! 👋
-<p>
-<img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src=https://cdn.discordapp.com/attachments/968211492442873870/990790453173571655/download20220600222226.png format=png&name=small>
-<p>
-<p>
-Me chamo Eduardo, sou estudante e adoro fazer textos de casos de invasão a segurança digital no mundo.                                        
-<p>
- 
-  ## Algumas informações sobre mim:
-- 🔭 Atualmente criando textos na plataforma Medium
-- 🌱 Estudante de tecnologia na Unisul
-- 💻 Noções básicas de HTML, CSS e JavaScript  
 <div align="center">
-  <a href="https://github.com/eduardoferreirajaworiwski">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardoferreirajaworiwski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreirajaworiwski&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 400px" />
+</div>
+<img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src=https://cdn.discordapp.com/attachments/968211492442873870/990790453173571655/download20220600222226.png format=png&name=small>
+  
+
+### <div align="center">I am Eduardo, student of Systems Analysis and Development at Unisul</div>  
+  
+
+- 🔭 Currently writing about cybersecurity on Medium  
+  
+
+- 🌱 I am studying web programming and have basic knowledge about Java  
+  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-## Contate-me nesses locais! 
-  <a href="https://www.instagram.com/eduardoo.fj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/eduardo-ferreira-jaworiwski-1720b3212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:eduardoferreira.ti@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://medium.com/@eduardoferreira.ti" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-   </div>   
-   
-## Ferramentas de trabalho!
-  <a href="https://medium.com/@eduardoferreira.ti" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> <a href="https://www.notion.so/pt-br" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
-   </div>   
-   
-  ## Escutando agora!
+</td><td valign="top" width="33%">
 
 
- [![Spotify](https://spotify-oque-estou-escutando.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/g7dqwa51aqvb37ih1ljz2ybqb)
 
-## Sistemas operacionais utilizados! 
-<a href="https://getfedora.org/pt_BR/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" ></a> <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
-   
-  </div>
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/eduardoferreirajaworiwski" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/eduardoferreiraj" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/eduardoo.fj" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@eduardoferreira.ti" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eduardoferreirajaworiwski&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=g7dqwa51aqvb37ih1ljz2ybqb&cover_image=true&theme=default" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=eduardoferreirajaworiwski&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
