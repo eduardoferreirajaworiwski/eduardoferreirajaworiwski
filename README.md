@@ -1,18 +1,17 @@
 <img src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" align="center" width="1500" />  
   
-
-<div align="right">
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" align="right" height="100" width="100" />
-</div>  
+ 
   
 
-### <div align="center">I'm Eduardo, a student and intern development.</div>  
+### <div align="center">I'm Eduardo, a student and intern development.</div>
+<div align="right"><img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" align="right" height="100" width="100" />
+</div>   
   
 
 - 🔭 I’m currently working on [scadaHUB](https://scadahub.io/en/en-home/).
   
 
-- 🌱 I’m currently learning Python, Databases and SCADA Systems for working.  
+- 🌱 I’m currently learning Python, Databases and SCADA Systems for work.  
   
 
 - 📫 How to reach me: eduardo.jaworiwski@outlook.com  
