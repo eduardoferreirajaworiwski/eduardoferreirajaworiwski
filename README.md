@@ -48,7 +48,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eduardoferreirajaworiwski&show_icons=true&theme=dark&count_private=true&hide_border=true&range=all_time" align="center" /></div>  
+<div align="center">
+<br><p align="centre"><b>Stats</b></p>
+  <div style="display: flex; align-items: center;">
+  <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api/top-langs/?username=eduardoferreirajaworiwski&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&layout=compact&langs_count=10&hide=jupyter%20notebook&cache=86400"/>
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=Tgentil&hide_border=true&stroke=00bfbf&background=0d1117&ring=00bfbf&fire=ff7b72&currStreakNum=c9d1d9&sideNums=ff7b72&currStreakLabel=8b949e&sideLabels=6e7681&dates=00bfbf&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&cache=86400" alt="Tgentil-streak-stats" />
+        <img height="200em" src="https://github-readme-stats-qjfab6v14-tgentil.vercel.app/api?username=eduardoferreirajaworiwski&hide=issues,contribs&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&cache=86400"/>
+    
+    
+ ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardoferreirajaworiwski&theme=gotham)
 
 <br/>  
 
