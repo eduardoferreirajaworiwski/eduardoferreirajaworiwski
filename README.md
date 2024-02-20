@@ -8,7 +8,7 @@
 </div>   
   
 
-- 🔭 I’m currently working on [scadaHUB](https://scadahub.io/en/en-home/).
+- 🔭 I’m currently working on .
   
 
 - 🌱 I’m currently learning Python, Databases and SCADA Systems for work.  
