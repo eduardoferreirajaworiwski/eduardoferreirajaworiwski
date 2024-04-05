@@ -67,7 +67,7 @@
 
 <br/>
 
-## Porfolio in Progress
+## Portfolio in Progress
 
 - [Development](#Development)
   - [a3modelos](#a3modelos)
