@@ -10,9 +10,9 @@
 </div>   
 
 
-- 🔭 I’m currently working on .
+- 🔭 I’m currently working on Indicium.
 
-- 🌱 I’m currently learning Python, Databases and Data Analysis
+- 🌱 I’m currently learning Cybersec and Red Team.
 
 - 📫 How to reach me: eduardo.jaworiwski@outlook.com
 
