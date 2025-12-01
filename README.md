@@ -1,46 +1,68 @@
 # Hi there! I'm Eduardo 👋
 
-### Security Analyst | GRC & SecOps
+### Security Analyst | Threat Hunter in Training 🕵️‍♂️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoferreirajaworiwski/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoferreirajaworiwski)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eduardoferreira.ti)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoferreirajaworiwski)
 
 ---
 
-I'm a Security Analyst passionate about technology and cyber defense. My main focus is on Governance, Risk, and Compliance (GRC), where I helped implement the **ISO 27001 and 27701** standards. I also have a strong interest in Security Operations (SecOps), always looking to strengthen defenses against threats.
+### 🚀 Who am I?
 
-Before diving headfirst into security, I had a journey as a developer, so I feel right at home working with technologies like **Python, SQL, Power BI, and Angular**.
+I am a **Security Analyst** bridging the gap between Governance (GRC) and Technical Operations. My background as a **Developer** allows me to look at code and infrastructure not just as checklists, but as living systems with behaviors to be analyzed.
 
-- 🌱 I’m currently focused on deepening my knowledge in **Cybersec and Red Team**.
-- 📫 You can reach me at: **eduardo.jaworiwski@outlook.com**
+Currently, I leverage my experience implementing **ISO 27001/27701** to understand *what* needs protecting, while using my technical skills to figure out *how* attackers might bypass those protections.
+
+### 🎯 Current Focus & Objectives
+
+I am transitioning my career towards **Cyber Threat Intelligence (CTI)** and **Threat Hunting**. I have a deep passion for the investigative side of security—connecting dots, analyzing malware behavior, and understanding the human element through Social Engineering.
+
+* 🔭 **I’m currently studying:** OSINT Techniques, Zero Trust Architecture, and Malware Analysis.
+* 📝 **I write about:** Malware cases and security insights on [Medium](https://medium.com/@eduardoferreira.ti).
+* 🧠 **My mindset:** "Assume Breach" & "Never Trust, Always Verify".
 
 ---
 
-### 🛠️ Some technologies I use:
+### 🛠️ Arsenal & Technologies
 
+I use Python to automate reconnaissance and analysis, and my dev background helps me understand the anatomy of attacks.
+
+**Languages & Scripting:**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,angular,spring,postgres,mongodb,linux,windows,vscode,powershell" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,sql,java,js" />
+</p>
+
+**Security & Systems:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,wireshark,git,docker" />
+</p>
+
+**Web & Dev Background:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,spring,postgres,mongodb,html,css" />
 </p>
 
 ---
 
-### 💡 Featured Project
+### 📚 Library & Learning Path
 
-**a3modelos**
-- **Description:** A school management system I developed in Python to organize and streamline access to academic data.
-- **Technologies:** Python, Streamlit, and MongoDB.
-- **[Check out the project on GitHub](https://github.com/eduardoferreirajaworiwski/a3modelos)**
+I believe in continuous learning. Currently diving deep into:
+- *OSINT Techniques* (Michael Bazzell)
+- *Zero Trust Networks* (O'Reilly)
+- *Intelligence-Driven Incident Response*
 
 ---
 
-### 📊 My GitHub Stats
+### 💡 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[a3modelos](https://github.com/eduardoferreirajaworiwski/a3modelos)** | A school management system to streamline academic data access. | Python, Streamlit, MongoDB |
+| **Malware Analysis Articles** | Documentation and storytelling of malware behavior (Check my Medium). | Reverse Engineering, Writing |
+
+---
 
 <div align="center">
-  <a href="https://github.com/eduardoferreirajaworiwski">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoferreirajaworiwski&show_icons=true&line_height=27&count_private=true&theme=nightowl&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreirajaworiwski&hide=html,jupyter%20notebook&theme=nightowl&langs_count=5"/>
-  </a>
+  <sub>Let's connect! Reach me at <b>eduardo.jaworiwski@outlook.com</b></sub>
 </div>
